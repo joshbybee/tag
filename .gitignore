@@ -421,3 +421,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /tag/Temp
+
+Library/gfu/
+Library/StateCache
