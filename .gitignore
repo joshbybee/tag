@@ -422,5 +422,5 @@ MigrationBackup/
 FodyWeavers.xsd
 /tag/Temp
 
-Library/gfu/
-Library/StateCache
+gfu/
+StateCache/
